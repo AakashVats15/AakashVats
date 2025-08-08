@@ -21,9 +21,8 @@ Hi there! I'm Aakash, an RF Test & Design Engineer crafting high-performance ant
 
 ## 📫 Contact
 
-- 📧 Aakash_vats15@hotmail.com
-- 📘 [LinkedIn]: (https://www.linkedin.com/in/aakashvats15)
-- 🌐 [GitHub]: (https://with your actual username)*
-
+- 📧 Aakash_vats15@hotmail.com  
+- 📘 LinkedIn  
+- 🌐 GitHub
 
 > “From aerospace to analytics—engineering the future, one signal and one dataset at a time.”
