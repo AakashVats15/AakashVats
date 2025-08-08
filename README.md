@@ -23,6 +23,6 @@ Hi there! I'm Aakash, an RF Test & Design Engineer crafting high-performance ant
 
 - 📧 Aakash_vats15@hotmail.com  
 - 📘 [LinkedIn](https://www.linkedin.comthub)
-- 🌐 [GitHub] (https://github.com/AakashVats15/AakashVats)
+- 🌐 [GitHub](https://github.com/AakashVats15/AakashVats)
 
 > “From aerospace to analytics—engineering the future, one signal and one dataset at a time.”
